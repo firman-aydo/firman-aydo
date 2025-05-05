@@ -1,5 +1,6 @@
-## Hi there 👋
+#### Hello World I'm Firman👋
 
+![Firman Aydo Saputra](img/github-header-image%20(5).png)
 <!--
 **firman-aydo/firman-aydo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
